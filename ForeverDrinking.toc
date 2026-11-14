@@ -1,0 +1,13 @@
+## Interface: 16001
+## Title: Forever Drinking
+## Notes: Shows on the default Blizzard raid/party frames when a player is drinking (icon and/or text, configurable).
+## Notes-deDE: Zeigt auf den originalen Blizzard-Schlachtzugsfenstern, wenn jemand trinkt (Symbol und/oder Text, einstellbar).
+## Author: sudo-elmo
+## Version: 1.1
+## IconTexture: Interface\Icons\INV_Drink_07
+## SavedVariables: ForeverDrinkingDB
+## X-License: MIT
+
+Locales.lua
+ForeverDrinking.lua
+Options.lua
